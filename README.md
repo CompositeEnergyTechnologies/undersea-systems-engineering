@@ -296,16 +296,3 @@ This repository covers the engineering and technology behind:
 - Advanced manufacturing
 - Undersea technology
 
-## Repository Structure
-
-Additional technical resources will be organized around specific engineering areas:
-
-```text
-undersea-systems-engineering/
-│
-├── README.md
-├── autonomous-underwater-vehicles.md
-├── composite-underwater-structures.md
-├── subsea-engineering.md
-├── mission-system-integration.md
-└── hadalus.md
